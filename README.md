@@ -11,7 +11,7 @@
 ##  Create a Repository on Github
 
 
-- create a " name.sh File " ( copy Code and Paste inside name.sh File ) : Code : https://github.com/aMaheshr/Swisstronic-ERC-20/blob/main/swisserc20.sh
+- create a " name.sh File " ( copy Code and Paste inside name.sh File ) : Code : https://github.com/aMaheshr/nodes/blob/main/swisserc20.sh
   
 ![zz](https://github.com/user-attachments/assets/1cdc3dbb-b570-409f-9bac-53772c45dda9)
   
