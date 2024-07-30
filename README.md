@@ -58,7 +58,7 @@ git push origin main
 -  copy transaction Hash
 -  Copy Ur Github URL
 
-Fill Form on Swisstronic Simple contract Deploy
+Fill Form on Swisstronic Mint 100 ERC-20
 
 --------------------------------------------------------------------------
 
